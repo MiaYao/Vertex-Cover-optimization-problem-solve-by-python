@@ -1,0 +1,2 @@
+# Locating-Traffic-Cameras-System-Python-
+The project is to help the local police department with their installation of security cameras at traffic intersections. The fact of it is to solve the Vertex Cover problem. The idea is when the police knowing the coordinate figures of each road, the project can help them minimize the number of cameras they need to install, and still be as effective as possible with their monitoring.
